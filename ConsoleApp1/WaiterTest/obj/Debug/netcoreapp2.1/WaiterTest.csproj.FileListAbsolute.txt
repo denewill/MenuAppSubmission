@@ -1,0 +1,17 @@
+C:\Users\USER\OneDrive - Swinburne University\SEM 6\SWE30003\Assignments\ASS3\ConsoleApp1\WaiterTest\obj\Debug\netcoreapp2.1\WaiterTest.csprojAssemblyReference.cache
+C:\Users\USER\OneDrive - Swinburne University\SEM 6\SWE30003\Assignments\ASS3\ConsoleApp1\WaiterTest\obj\Debug\netcoreapp2.1\WaiterTest.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive - Swinburne University\SEM 6\SWE30003\Assignments\ASS3\ConsoleApp1\WaiterTest\obj\Debug\netcoreapp2.1\WaiterTest.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive - Swinburne University\SEM 6\SWE30003\Assignments\ASS3\ConsoleApp1\WaiterTest\obj\Debug\netcoreapp2.1\WaiterTest.AssemblyInfo.cs
+C:\Users\USER\OneDrive - Swinburne University\SEM 6\SWE30003\Assignments\ASS3\ConsoleApp1\WaiterTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\USER\OneDrive - Swinburne University\SEM 6\SWE30003\Assignments\ASS3\ConsoleApp1\WaiterTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\USER\OneDrive - Swinburne University\SEM 6\SWE30003\Assignments\ASS3\ConsoleApp1\WaiterTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\USER\OneDrive - Swinburne University\SEM 6\SWE30003\Assignments\ASS3\ConsoleApp1\WaiterTest\bin\Debug\netcoreapp2.1\WaiterTest.deps.json
+C:\Users\USER\OneDrive - Swinburne University\SEM 6\SWE30003\Assignments\ASS3\ConsoleApp1\WaiterTest\bin\Debug\netcoreapp2.1\WaiterTest.runtimeconfig.json
+C:\Users\USER\OneDrive - Swinburne University\SEM 6\SWE30003\Assignments\ASS3\ConsoleApp1\WaiterTest\bin\Debug\netcoreapp2.1\WaiterTest.runtimeconfig.dev.json
+C:\Users\USER\OneDrive - Swinburne University\SEM 6\SWE30003\Assignments\ASS3\ConsoleApp1\WaiterTest\bin\Debug\netcoreapp2.1\WaiterTest.dll
+C:\Users\USER\OneDrive - Swinburne University\SEM 6\SWE30003\Assignments\ASS3\ConsoleApp1\WaiterTest\bin\Debug\netcoreapp2.1\WaiterTest.pdb
+C:\Users\USER\OneDrive - Swinburne University\SEM 6\SWE30003\Assignments\ASS3\ConsoleApp1\WaiterTest\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\USER\OneDrive - Swinburne University\SEM 6\SWE30003\Assignments\ASS3\ConsoleApp1\WaiterTest\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Users\USER\OneDrive - Swinburne University\SEM 6\SWE30003\Assignments\ASS3\ConsoleApp1\WaiterTest\obj\Debug\netcoreapp2.1\WaiterTest.csproj.CopyComplete
+C:\Users\USER\OneDrive - Swinburne University\SEM 6\SWE30003\Assignments\ASS3\ConsoleApp1\WaiterTest\obj\Debug\netcoreapp2.1\WaiterTest.dll
+C:\Users\USER\OneDrive - Swinburne University\SEM 6\SWE30003\Assignments\ASS3\ConsoleApp1\WaiterTest\obj\Debug\netcoreapp2.1\WaiterTest.pdb
